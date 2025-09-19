@@ -7,6 +7,5 @@ Requirements:
 - pandas
 - matplotlib
 - numpy
+- pyyaml
 - IPython (Jupyter)
-
-
