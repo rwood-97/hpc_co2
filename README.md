@@ -8,7 +8,7 @@ The methodology comes from the [Green Algorithms paper](https://advanced.onlinel
 
 Data you will need:
 - `Baskerville_total_commas.csv` (ask me)
-- `cluster_info.yaml` (ask me or create your own, the `cluster_info.yaml` format comes from https://github.com/GreenAlgorithms/GreenAlgorithms4HPC/blob/main/data/cluster_info.yaml)
+- `cluster_info.yaml` (ask me or create your own, the format comes from [here](https://github.com/GreenAlgorithms/GreenAlgorithms4HPC/blob/main/data/cluster_info.yaml))
 
 Python dependencies:
 - pandas
