@@ -2,6 +2,7 @@
 
 Data you will need:
 - `Baskerville_total_commas.csv` (ask me)
+- `cluster_info.yaml` (ask me)
 
 Requirements:
 - pandas
