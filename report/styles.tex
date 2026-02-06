@@ -1,0 +1,29 @@
+% Set page size and margins
+% Replace `letterpaper' with `a4paper' for UK/EU standard size
+\usepackage[letterpaper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+
+% Useful packages
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{arydshln}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+\usepackage[affil-it]{authblk}
+\usepackage{appendix}
+\usepackage{listings}
+\usepackage{cite}
+\usepackage{array}
+\usepackage{booktabs}
+
+\graphicspath{{./diagrams}}
+\setlength\parskip{1em}
+\setlength{\parindent}{0pt}
+\setlength{\dashlinedash}{1.0pt}
+\setlength{\dashlinegap}{4.0pt}
+\setlength{\arrayrulewidth}{0.5pt}
+
+\newcommand{\summary}[1]{{\bf In summary:} #1}
+
+\def\fpdouble{{\tt float64}}
+\def\fpsingle{{\tt float32}}
+\def\fphalf{{\tt float16}}
+\def\bfhalf{{\tt bfloat16}}
